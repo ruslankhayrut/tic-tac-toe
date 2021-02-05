@@ -16,4 +16,4 @@ export function calculateWinner(squares: Array<string|null>) {
       }
     }
     return null;
-  }
+}
